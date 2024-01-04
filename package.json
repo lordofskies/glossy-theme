@@ -1,0 +1,22 @@
+{
+  "name": "glossy-theme",
+  "displayName": "glossy-theme",
+  "description": "Glossy Theme",
+  "repository": "https://github.com/lordofskies/glossy-theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "glossy",
+        "uiTheme": "vs",
+        "path": "./themes/glossy-color-theme.json"
+      }
+    ]
+  }
+}
