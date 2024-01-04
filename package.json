@@ -4,6 +4,7 @@
   "description": "Glossy Theme",
   "repository": "https://github.com/lordofskies/glossy-theme",
   "version": "0.0.1",
+  "publisher": "JohnDoeCounty",
   "engines": {
     "vscode": "^1.85.0"
   },
